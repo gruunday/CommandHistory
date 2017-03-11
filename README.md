@@ -1,4 +1,4 @@
-# Command Analyser
+# Command Analyzer
 
 ## Makes pi chart of most used commands
 
